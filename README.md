@@ -1,2 +1,2 @@
-# Tic_tac_Toe_iOS
+# Tic-Tac-Toe (iOS)
 Simple cross and nought game for learning iOS development
